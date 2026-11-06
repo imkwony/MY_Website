@@ -175,3 +175,5 @@ dialog#gate::backdrop { background: rgba(59, 42, 39, .45); }
 .course-list li { display: grid; grid-template-columns: 110px 1fr; gap: 12px; padding: 2px 0; }
 .course-list li span:first-child { color: var(--crimson); font-weight: 500; }
 @media (max-width: 760px) { .course-list li { grid-template-columns: 1fr; gap: 0; padding: 4px 0; } }
+
+.course { font-weight: 600; }
