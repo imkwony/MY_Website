@@ -48,7 +48,7 @@ git push
 
 ```html
 <article class="pub">
-  <div class="tag">AAAI 2027</div>            <!-- 학회/연도 (중요 논문은 class="tag", 일반은 class="tag alt") -->
+  <div class="tag">AAAI 2027</div>            <!-- 학회/연도. 국내 저널은 class="tag alt"에 Journal (KCI)<br>KACE 처럼 학회 약어 -->
   <div>
     <h3>논문 제목</h3>
     <div class="authors">A, <b>Changkwon Lee</b>, B</div>   <!-- 내 이름은 <b>로 강조 -->
